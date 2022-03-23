@@ -1,0 +1,15 @@
+C:\Users\Samsung\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Users\Samsung\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Users\Samsung\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Users\Samsung\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Users\Samsung\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+C:\Users\Samsung\MyApp\obj\Debug\net6.0\ref\MyApp.dll
